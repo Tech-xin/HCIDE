@@ -1,4 +1,7 @@
 # HCIDE
+This is our figma
+https://www.figma.com/proto/sDzWv2O1QAxWrJGLueCm6x/Untitled?node-id=14-44&starting-point-node-id=14%3A17
+
 AE3 主要工作内容（Creative Design + User Study + Prototype）
 1. 研究背景与目标
 主题是帮助大学生改善 Work-Life Balance (WLB)，这是基于 Lab 6 的用户研究成果延伸出来的设计任务。
